@@ -1406,3 +1406,41 @@
   margin-left: 50px;
   margin-bottom: 10px;
 }
+._freetime{
+  display: flex;
+  flex-direction: row;
+}
+._futbol{
+  margin-bottom:5px;
+  }
+._music{
+  margin-bottom:5px;
+
+  }
+._yoga{
+  margin-bottom:5px;
+
+  }
+._longboard{
+    margin-bottom:5px;
+
+    }
+._design{
+    margin-bottom:5px;
+
+    }
+._boardgames{
+    margin-bottom:5px;
+
+    }
+._boogie{
+    margin-bottom:5px;
+
+    }
+._dining{
+    margin-bottom:5px;
+
+    }
+#musicplayer{
+  margin-left: 30px;
+}
